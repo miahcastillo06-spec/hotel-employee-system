@@ -1,14 +1,4 @@
 <?php
-/**
- * ==========================================================
- *  EMPLOYEE SYSTEM - Database Configuration
- *  Represents: PC2 / Webserver 2  (see diagram)
- * ==========================================================
- * NOTE: For this activity, both systems run on the same
- * MySQL server (different databases) to simplify local
- * testing. In a real 2-PC setup, you would simply change
- * $host to the IP address of PC2's MySQL server.
- */
 
 $host     = "localhost";
 $db_name  = "employee_db";
