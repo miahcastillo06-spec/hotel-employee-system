@@ -130,6 +130,6 @@ inside the `hotel_db` database.
 ![Employees table](screenshots/05-employees-table.png)
 
 ## Submission checklist
-- [x] Push this whole `hotel-employee-system/` folder to a **public** GitHub repo.
-- [ ] Submit the GitHub repo link.
-- [ ] Zip the folder and submit the `.zip` alongside the link.
+-  Push this whole `hotel-employee-system/` folder to a **public** GitHub repo.
+-  Submit the GitHub repo link.
+-  Zip the folder and submit the `.zip` alongside the link.
